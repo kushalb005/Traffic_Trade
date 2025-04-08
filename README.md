@@ -41,7 +41,7 @@ Traffic_Trade/
   </pre>
 
   <ul>
-    <li><strong>Videos/</strong> – Input videos for use with <code>td3.py</code></li>
+    <li><strong>Videos/</strong> – Input videos for demonstration</li>
     <li><strong>output/</strong> – Annotated output images and video exports</li>
     <li><strong>Traffic Trade/</strong> – Contains trained ML model files</li>
   </ul>
