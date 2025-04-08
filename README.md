@@ -4,31 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Traffic_Trade</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    code, pre {
-      background-color: #eee;
-      padding: 0.5rem;
-      display: block;
-      overflow-x: auto;
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-    .folder-note {
-      font-style: italic;
-      color: #666;
-    }
-  </style>
 </head>
 <body>
 
